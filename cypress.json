@@ -1,0 +1,20 @@
+{
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/report/mochawesome-report",
+        "overwrite": true,
+        "html": true,
+        "json": false,
+        "timestamp": "mmddyyyy_HHMMss"
+    },
+
+    "env" : {
+        "test" : "https://test.mytheresa.com/en-de/men.html",
+        "mainurl" : "https://www.mytheresa.com/en-de/men.html",
+        "staging" : "https://staging.mytheresa.com/en-de/men.html",
+        "local" : "https://local.mytheresa.com/en-de/men.html",
+        "CBT" : "https://scrolltest.com"
+
+    }
+}
+

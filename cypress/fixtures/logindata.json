@@ -1,0 +1,7 @@
+{
+  "firstname":"Sanjay",
+  "lastname":"Pal",
+  "pass": "yourPassword",
+  "confirmation":"yourPassword",
+  "email": "yourEmail"
+}
